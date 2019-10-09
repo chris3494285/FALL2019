@@ -6,6 +6,7 @@ Put your name in the Team Section and comment
 
 ## Team
 Kevin Chen
+Bowen Liu
 
 ## Comments
 Statistics may be dull, but it does have its Moments
